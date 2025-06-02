@@ -2603,4 +2603,3 @@ MainTab:AddParagraph({
 
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Bernass79/KEY-SISTEM/refs/heads/main/README.md"))()
